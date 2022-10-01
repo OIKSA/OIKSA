@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Guiding the future with intelligent data on OIKSA Technologies</title>
+    <link>https://OIKSA.github.io/OIKSA/</link>
+    <description>Recent content in Guiding the future with intelligent data on OIKSA Technologies</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Sep 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://OIKSA.github.io/OIKSA/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: The Creation of OIKSA</title>
+      <link>https://OIKSA.github.io/OIKSA/post/project-1/</link>
+      <pubDate>Fri, 30 Sep 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://OIKSA.github.io/OIKSA/post/project-1/</guid>
+      <description> Point 1 Point 2 Point 3 Point 4 </description>
+    </item>
+    
+    <item>
+      <title>Project 2: Coming Soon!</title>
+      <link>https://OIKSA.github.io/OIKSA/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://OIKSA.github.io/OIKSA/post/project-2/</guid>
+      <description>Enter all the text updates regarding Project 2:
+A B C </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://OIKSA.github.io/OIKSA/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://OIKSA.github.io/OIKSA/about/</guid>
+      <description>This should be a long but brief overview of OIKSA Technologies as a company, briefly discuss our mission and our idea&amp;rsquo;s for the future and how our work with AI Data Science will shape the future.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://OIKSA.github.io/OIKSA/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://OIKSA.github.io/OIKSA/contact/</guid>
+      <description> Platform URL YouTube: Coming Soon! Website: https://www.oiksa.com Twitter: https://www.twitter.com/oiksatech LinkedIn: Coming Soon! Instagram: Coming Soon! </description>
+    </item>
+    
+  </channel>
+</rss>
